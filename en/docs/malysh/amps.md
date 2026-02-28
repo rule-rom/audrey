@@ -54,6 +54,12 @@ Mode selected via tube controller or set fixed in PSU.
 
 Thanks to the universal platform and Tube controller, Malysh is capable of working with a wide range of output tubes:
 
+### G-807 — Signature Tube of Malysh
+
+![G-807 in socket and cap](../img/807_1.jpg)
+
+![G-807 on datasheet](../img/807_2.jpg)
+
 | Tube | Equivalent | Sound Character |
 |------|------------|-----------------|
 | **G-807** | — | Charisma and power, signature Malysh sound |
