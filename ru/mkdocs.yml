@@ -1,0 +1,43 @@
+site_name: Audrey 🔈
+site_url: https://audrey.rulerom.com
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.sections
+  custom_dir: ../overrides
+
+extra_css:
+  - assets/rulerom.css
+
+extra:
+  analytics:
+    provider: yandex
+    property: 107052211
+
+nav:
+  - '🏛️ Главная': index.md
+  - '🔈 Малыш':
+    - 'Обзор': malysh/index.md
+    - 'Усилители': malysh/amps.md
+    - 'Железо': malysh/iron.md
+  - '🧠 Ламповая Децима': decima.md
+  - '📜 Лицензия': LICENSE.md
+  - '📓 Log':
+    - 'Обзор': log/index.md
+    - '2026':
+      - '2026 Обзор': log/2026/index.md
+      - 'Январь': log/2026/01.md
+      - 'Февраль': log/2026/02.md
+      - 'Март': log/2026/03.md
+      - 'Апрель': log/2026/04.md
+      - 'Май': log/2026/05.md
+      - 'Июнь': log/2026/06.md
+      - 'Июль': log/2026/07.md
+      - 'Август': log/2026/08.md
+      - 'Сентябрь': log/2026/09.md
+      - 'Октябрь': log/2026/10.md
+      - 'Ноябрь': log/2026/11.md
+      - 'Декабрь': log/2026/12.md

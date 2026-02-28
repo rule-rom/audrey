@@ -1,0 +1,98 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "RuleROMFederation",
+  "description_for_model": "Global registry of executable intentions. Federation of 4 domains: C-SAFE (legacy immunization via Clang AST), Decima (neuromorphic substrate with PHASE_READ/WRITE at 20µs), Bakery (deterministic personality baking), Audrey (analog soul: Malysh tube amp kits, OSM transformers, 16-tube Decima for gaming). We translate AI from probabilities to deterministic intent through formal EDN contracts and Garden-Core enforcement.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://rulerom.com"
+  },
+  "logo_url": "https://rulerom.com/logo.png",
+  "contact_email": "intent@rulerom.com",
+  "documentation": {
+    "en": "https://rulerom.com/en/",
+    "ru": "https://rulerom.com/ru/",
+    "zh": "https://rulerom.com/zh/",
+    "log": "https://rulerom.com/en/log/"
+  },
+  "infrastructure": {
+    "pki": {
+      "name": "PKI",
+      "description": "Public Key Infrastructure for certificate management",
+      "url": "https://pki.rulerom.com"
+    },
+    "log": {
+      "name": "Log",
+      "description": "Daily development journal",
+      "url": "https://rulerom.com/en/log/"
+    }
+  },
+  "domains": [
+    {
+      "name": "C-SAFE",
+      "description": "Legacy Immunization: Clang AST + Garden-Core validation. Tags C code with garden:intent for deterministic verification.",
+      "url": "https://c-safe.rulerom.com",
+      "features": [
+        "Clang AST validation",
+        "EDN contracts",
+        "Garden-Tags",
+        "Memory safety specs"
+      ]
+    },
+    {
+      "name": "Decima",
+      "description": "Neuromorphic substrate with deterministic rhythm. PHASE_READ/WRITE at 20µs, 16×16 tile array, BUS16 summation.",
+      "url": "https://decima.rulerom.com",
+      "features": [
+        "20µs cycle time",
+        "Level16 (0..15)",
+        "Range-based fuse",
+        "Decay-to-zero",
+        "RTL specs (Tier 5+)"
+      ]
+    },
+    {
+      "name": "Bakery",
+      "description": "Personality marketplace and baking methodology. OCR Typographer (ready), HFT Whaler (R&D), Acoustic (spec).",
+      "url": "https://bakery.rulerom.com",
+      "features": [
+        "Typographer OCR",
+        "Whaler HFT",
+        "Acoustic ASR",
+        "Pattern library"
+      ]
+    },
+    {
+      "name": "Audrey",
+      "description": "Analog soul: vacuum electronics returning to origins. Malysh tube amp kits with Tube Controller, OSM transformers, 16-tube Decima for auto-aim gaming.",
+      "url": "https://audrey.rulerom.com",
+      "features": [
+        "Malysh tube amp kits",
+        "OSM transformers",
+        "Tube Controller with auto-bias",
+        "16-tube Decima gaming"
+      ]
+    }
+  ],
+  "support_tiers": [
+    {"tier": "Seed", "price": "$0.50/mo", "access": "Public docs"},
+    {"tier": "Observer", "price": "Free", "access": "Dev-logs"},
+    {"tier": "Gardener", "price": "$4.50/mo", "access": "Dev-logs"},
+    {"tier": "Enforcer", "price": "$11/mo", "access": "Priority PR"},
+    {"tier": "Industrialist", "price": "$34/mo", "access": "NDA specs"},
+    {"tier": "Swarm Founder", "price": "$170/mo", "access": "Emulator + API"},
+    {"tier": "Swarm Node", "price": "$1,130/mo", "access": "ASIC/FPGA specs"},
+    {"tier": "High Council", "price": "$11,300+/mo", "access": "RTL + voting"}
+  ],
+  "payment": {
+    "usdt_trc20": "TSZGs8RvzxaKGYDaiTm3FaJN8EdANETkPs",
+    "btc": "bc1quul85tw7m0meaxkd2aqk2mguplsn809stjudsm"
+  },
+  "log": {
+    "description": "Daily development journal with 2-3 lines per day",
+    "structure": "log/YEAR/MM.md (e.g., log/2026/02.md)",
+    "url": "https://rulerom.com/en/log/2026/"
+  }
+}

@@ -1,0 +1,43 @@
+site_name: Audrey 🔈
+site_url: https://audrey.rulerom.com
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.sections
+  custom_dir: ../overrides
+
+extra_css:
+  - assets/rulerom.css
+
+extra:
+  analytics:
+    provider: yandex
+    property: 107052211
+
+nav:
+  - '🏛️ 首页': index.md
+  - '🔈 Малыш':
+    - '概述': malysh/index.md
+    - '放大器': malysh/amps.md
+    - '铁件': malysh/iron.md
+  - '🧠 电子管 Decima': decima.md
+  - '📜 许可证': LICENSE.md
+  - '📓 日志':
+    - '概述': log/index.md
+    - '2026':
+      - '2026 概述': log/2026/index.md
+      - '一月': log/2026/01.md
+      - '二月': log/2026/02.md
+      - '三月': log/2026/03.md
+      - '四月': log/2026/04.md
+      - '五月': log/2026/05.md
+      - '六月': log/2026/06.md
+      - '七月': log/2026/07.md
+      - '八月': log/2026/08.md
+      - '九月': log/2026/09.md
+      - '十月': log/2026/10.md
+      - '十一月': log/2026/11.md
+      - '十二月': log/2026/12.md
