@@ -52,8 +52,7 @@ Mode selected via tube controller or set fixed in PSU.
 
 ## Supported Tubes
 
-Thanks to the universal platform and Decima controller, Malysh supports 
-hot swapping of output tubes:
+Thanks to the universal platform and Tube controller, Malysh is capable of working with a wide range of output tubes:
 
 | Tube | Equivalent | Sound Character |
 |------|------------|-----------------|
