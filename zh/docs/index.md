@@ -69,7 +69,11 @@
 
 <div class="rom-footer">
     <p class="rom-footer-tagline">Communicate. Command. Control.</p>
-    <p><a href="https://intent-garden.org">🌿 Intent-Garden.Org</a></p>
+    <p>
+        <a href="https://intent-garden.org">🌿 Intent-Garden.Org</a>
+        &nbsp;|&nbsp;
+        <a href="https://rulerom.com">📜 Rule-ROM.com</a>
+    </p>
 
     <div class="rom-lang-switcher" style="margin: 1.5rem 0;">
         <a href="/en/" class="rom-lang-btn">🇺🇸 EN</a>
