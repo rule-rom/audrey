@@ -159,7 +159,7 @@ Tube Decima uses principles from root Decima8:
     <div class="rom-contact-grid">
         <div class="rom-contact-item">
             <span class="rom-contact-icon">✉️</span>
-            <a href="mailto:decima@rulerom.com">decima@rulerom.com</a>
+            <a href="mailto:audrey@rulerom.com">audrey@rulerom.com</a>
         </div>
     </div>
 </div>
