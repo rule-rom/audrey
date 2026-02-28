@@ -7,7 +7,7 @@
 
 <div class="rom-mission">
     <p class="rom-mission-text">
-        <strong>People's Tube Amplifier. Planned as a KIT.</strong>
+        <strong>Sovereign Audio Platform. Planned as a KIT.</strong>
     </p>
     <p class="rom-mission-text" style="margin-top: 1rem;">
         Malysh is a project for EVERYONE. Planned for release as a kit after R&D completion and prototype assembly. 
@@ -68,23 +68,59 @@
 
 | Version | Description |
 |---------|-------------|
-| **Production** | OSM-0.16 in steel caps ("pots"), factory made |
+| **Production** | OSM-0.063 in steel caps ("pots"), factory made |
 
 ### Power Transformer
 
-- **OSM-0.4** (factory made)
+- **OSM-0.16** (factory made)
 
 ### Chokes
 
-- **2× OSM-0.063** (on top panel in caps)
+- **2× OSM-0.036** (on top panel in caps)
 
-### Enclosure
+### Enclosure (Heavy Metal)
 
-| Parameter | Description |
-|-----------|-------------|
-| **Design** | "Slim" (height 45 mm), disassemblable |
-| **Material** | Steel 2 mm |
-| **Construction** | Flat-pack (bolt assembly) |
+With this set of iron and the steel chassis concept, Malysh emerges as a true Heavy Metal. Despite its name, this apparatus will weigh like a proper kettlebell.
+
+**Detailed weight breakdown by "atoms":**
+
+| Component | Weight |
+|-----------|--------|
+| **1. Transformer Group** | |
+| Power Transformer OSM-0.16 (ШL 32×40) | ~3.2 kg |
+| Output Transformers (2 pcs. PL 16×36) | ~3.6 kg (1.8 kg each) |
+| Chokes (2 pcs. OSM-0.036) | ~1.6 kg (0.8 kg each) |
+| **Total for copper and iron** | **~8.4 kg** |
+| | |
+| **2. Enclosure and Shielding** | |
+| Chassis (430×300×45 mm, steel 2 mm) | ~2.8 kg |
+| Caps ("Pots", 5 pcs) | ~1.5 kg |
+| Bottom cover and fasteners | ~0.8 kg |
+| **Total for metal** | **~5.1 kg** |
+| | |
+| **3. Components and Tubes** | |
+| Capacitors (2000 µF cans) | ~0.6 kg |
+| Tubes (4×G-807 + 2×6N23P) | ~0.5 kg |
+| PCBs (3 pcs), heatsinks, ALPS, wires | ~0.4 kg |
+| **Total for "misc"** | **~1.5 kg** |
+
+**✅ Total estimated weight of Malysh (The Kid) amplifier:**
+
+<div class="rom-mission" style="margin-top: 1rem;">
+    <p class="rom-mission-text">
+        <strong>~15.0 kg (± 1 kg)</strong>
+    </p>
+</div>
+
+**Benefits of this weight:**
+
+| Aspect | Benefit |
+|--------|---------|
+| **For Sound** | Large mass and steel chassis perfectly dampen tube microphonics and transformer vibrations |
+| **For Image** | When a KIT buyer lifts a 15 kg box, they understand they bought a "thing", not an empty tin can |
+| **For Logistics** | 15 kg still passes standard CDEK/Post tariffs without special equipment |
+
+This is real "cast iron" sound!
 
 ---
 
@@ -106,10 +142,10 @@ Thanks to the controller and chassis supporting all necessary sockets, you can b
 | Parameter | Value |
 |-----------|-------|
 | **Format** | KIT — planned for release |
-| **Components** | Factory OSM transformers, enclosures, pre-assembled PCBs, component sets |
+| **Components** | Factory transformers (TVZ OSM-0.063, TS OSM-0.16), chokes (OSM-0.036), enclosures, pre-assembled PCBs, component sets |
 | **Kit Cost** | ~52,000 RUB |
 | **Retail Price** | 75,000 – 85,000 RUB (full config with motorized volume, Tube Controller with Ethernet and turnkey assembly) |
-| **Positioning** | People's tube amplifier for everyone |
+| **Positioning** | Sovereign Audio Platform. Taming the power of G-807, GU-50. For Sound Gardeners. |
 
 ---
 
