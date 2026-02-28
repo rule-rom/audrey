@@ -9,6 +9,19 @@
 
 ## Output Transformers (TVZ)
 
+### Prototype: PL 16×36
+
+![TVZ Prototype PL 16×36](../img/tvz_proto.jpg)
+
+| Parameter | Value |
+|-----------|-------|
+| **Core** | PL 16×36 (laminated permalloy) |
+| **Winding** | Hand-wound, 3P+2S (sectionalized) |
+| **Primary** | 5000 turns, 0.25 mm wire |
+| **Secondary** | For 4/8 Ohm load |
+| **Inductance** | ~80 H (at 100 Hz) |
+| **Mounting** | Through-chassis |
+
 ### Production: OSM-0.063 (Factory Made)
 
 | Parameter | Value |
@@ -27,6 +40,8 @@
 ## Power Transformer (TS)
 
 ### OSM-0.16 (Factory Made)
+
+![Power Transformer OSM-0.16](../img/ts.jpg)
 
 | Parameter | Value |
 |-----------|-------|
